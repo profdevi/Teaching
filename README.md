@@ -1,8 +1,6 @@
 # Teaching
-Example codes for teaching
+Example codes for teaching C programming with Data Structures for Discrete Math
 
 
-## Ex01
-Ask user to enter a string and confirm that it is a binary integer
 
  
