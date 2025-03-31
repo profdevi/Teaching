@@ -13,3 +13,8 @@ Ex03 : Using an Finite State Machine to test if a string is an octal integer
 Ex04 : Using an Finite State Machine to covert am octal string to an integer.
 	Ex04Main.c
 
+
+Ex05 : Using an Finite State Machine to count the number of words in a string.
+	Ex05Main.c
+
+
